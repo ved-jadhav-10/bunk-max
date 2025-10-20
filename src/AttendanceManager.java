@@ -40,7 +40,7 @@ class AttendanceManager extends FileHandler implements AttendanceOperations {
 
             System.out.print("Enter additional attended classes: ");
             int a = sc.nextInt();
-            System.out.print("Enter total classes conducted: ");
+            System.out.print("Enter additional classes conducted: ");
             int t = sc.nextInt();
 
             undoStack.push(list.get(choice).getCourseName());

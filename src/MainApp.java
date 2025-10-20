@@ -39,7 +39,7 @@ public class MainApp {
                         System.out.println("Error saving data: " + e.getMessage());
                     }
                 }
-                case 5 -> System.out.println("Exiting...");
+                case 5 -> System.out.println("Exiting");
                 default -> System.out.println("Invalid choice!");
             }
         } while (choice != 5);

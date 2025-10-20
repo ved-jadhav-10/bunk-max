@@ -1,0 +1,4 @@
+# Ignore compiled Java files and temporary data
+*.class
+attendance.dat
+*.log   
