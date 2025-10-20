@@ -11,7 +11,11 @@ public class MainApp {
 
         Student student = new Student(name);
         AttendanceManager manager = new AttendanceManager(student);
-        
+
+        AutoSaveThread autoSave = new AutoSaveThread(manager, student);
+        autoSave.setDaemon(true);
+        autoSave.start();
+
         int choice;
         do {
             System.out.println("\n===== Attendance Management System =====");
