@@ -1,4 +1,4 @@
-//Interface part, will integrate into menu driven in main later
+//Interface part, will integrate into menu driven in MainApp and AttendanceManager
 
 public interface AttendanceOperations {
     void addCourse();
