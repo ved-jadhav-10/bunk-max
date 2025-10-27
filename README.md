@@ -27,4 +27,4 @@ There is also a `bin/` directory which can contain compiled `.class` files and a
 - Lets you add courses and record attendance (present/absent).
 - Calculates current attendance percentage for each course.
 - Computes how many classes you can still bunk while staying above a target percentage.
-- Periodically autosaves data to disk so you won't lose progress between runs.
+- Periodically autosaves data to disk so you won't lose progress between runs. 
