@@ -1,9 +1,9 @@
 //Menu driven part of the attendance management system, connects everything together
 /*
- Made by -
- Ved Jadhav - 124B1F059
- Rehaan Shaikh - 124B1F067
- Veerbhadra Mahant - 124B1F073
+Made by -
+Ved Jadhav - 124B1F059
+Rehaan Shaikh - 124B1F067
+Veerbhadra Mahant - 124B1F073
  */
 
 
